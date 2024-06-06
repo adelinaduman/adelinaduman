@@ -21,7 +21,7 @@ repository               : "https://adelinaduman.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Profile-Imagee.png"
+  avatar           : "images/Profile-Imagee.jpg"
   name             : "Adelina Duman"
   pronouns         : # example: "she/her"  
   bio              : ""

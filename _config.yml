@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Adelina's Homepage"
+title                    : "Adelina Duman's Homepage"
 title_separator          : "-"
 name                     : &name "Adelina Duman"
 description              : &description "personal description"

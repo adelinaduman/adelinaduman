@@ -55,7 +55,6 @@ Hello! I'm **Adelina Duman**, a recent graduate from Columbia University, specia
 - **Libraries:** PyTorch, NumPy, opencv,Pandas, Scikit-Learn, Matplotlib, Seaborn, Tableau, Keras
 
 
-
 ## 📜 Certifications
 - **Machine Learning** by Stanford University
   - Currently taking Machine Learning Specialization by Andrew Ng
@@ -63,4 +62,3 @@ Hello! I'm **Adelina Duman**, a recent graduate from Columbia University, specia
   - [Certification Link](https://coursera.org/share/4459a4c9419eb3e1088fee9e5ecfcc71)
 - **Introduction to Generative AI Learning Path** by Google Cloud
   - [Certification Link](https://www.cloudskillsboost.google/public_profiles/7e0bdce2-c4da-40c7-a410-0ffb076ff6ed)
-

@@ -21,7 +21,7 @@ repository               : "https://adelinaduman.github.io/"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Profile-Imagee.jpg"
   name             : "Adelina Duman"
   pronouns         : # example: "she/her"  
   bio              : ""
@@ -30,14 +30,6 @@ author:
   uri              : # URL
   email            : "adeline.duman@gmail.com" 
 
-  # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -48,7 +40,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -57,7 +49,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "adelina-duman-6779571b6"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

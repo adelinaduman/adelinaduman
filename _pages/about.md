@@ -9,7 +9,7 @@ redirect_from:
 
 # Welcome to My Page! 🌟
 
-Hello! I'm **Adelina Duman**, a recent graduate from Columbia University, specializing in the Intelligent Systems track. My academic journey has equipped me with a robust foundation in Artificial Intelligence, Applied Machine Learning, and Natural Language Processing.
+Hello! I'm **Adelina Duman**, a recent graduate from Columbia University, specializing in the Intelligent Systems track. My academic journey has equipped me with a robust foundation in Artificial Intelligence, Applied Machine Learning, and Natural Language Processing. I also interned at Duolingo as a Software Engineer and worked as a AI Researcher in EPFL University, working on the intersection between AI and neuoscience
 
 ## 🎓 Education
 - **Columbia University** (Graduation Date: May 2024)
@@ -22,7 +22,7 @@ Hello! I'm **Adelina Duman**, a recent graduate from Columbia University, specia
 - Implemented and optimized algorithms including decision trees, SVMs, and neural networks.
 - Enhanced predictive modeling accuracy through advanced data preprocessing.
 - **Tech Stack:** Python, TensorFlow, Keras, Scikit-Learn, Pandas
-- **Skills:** Machine Learning, Data Preprocessing, Model Optimization
+- **Skills:** Deep Learning, Neural Networks, Data Preprocessing, Model Optimization
 
 ### **Duolingo Software Engineering Intern** 🦉🟢
 - Developed an Android mobile app "Concentration Game" with a team of engineers, where users can practice words in their learning language.
@@ -57,34 +57,10 @@ Hello! I'm **Adelina Duman**, a recent graduate from Columbia University, specia
 
 
 ## 📜 Certifications
+- **Machine Learning** by Stanford University
+  - Currently taking Machine Learning Specialization by Andrew Ng
 - **AI for Product Management** by Duke University
   - [Certification Link](https://coursera.org/share/4459a4c9419eb3e1088fee9e5ecfcc71)
 - **Introduction to Generative AI Learning Path** by Google Cloud
   - [Certification Link](https://www.cloudskillsboost.google/public_profiles/7e0bdce2-c4da-40c7-a410-0ffb076ff6ed)
 
-
-
-## 🚀 Projects Include:
-
-### **Paper Implementation – Alzheimer MRI Predictions** 🧠
-- [Dataset](https://www.kaggle.com/datasets/tourist55/alzheimers-dataset-4-class-of-images)
-- [Paper](https://www.medrxiv.org/content/10.1101/2021.05.24.21257554v2.full)
-- Implemented a deep learning model in Python to replicate the findings of a research paper on Alzheimer's disease prediction using brain MRI images.
-Used a Convolutional Neural Network (CNN) architecture to classify brain MRI images into different stages of Alzheimer's disease.
-- **Tech Stack**: Python, TensorFlow/Keras, Deep Learning, Convolutional Neural Networks
-
-
-### **EmotionDetect – Spoken Language Advanced Processing** 🎤
-- Developed a sophisticated system for analyzing and recognizing emotions in spoken language.
-- Used Praat, a software package for speech analysis, to extract acoustic features such as pitch, intensity, and formants.
-- Employed Python for signal processing, feature extraction, and machine learning model implementation.
-- Implemented machine learning models like Random Firest, possibly using libraries like PyTorch or Scikit-Learn, to classify emotions based on the extracted features.
-- Explore the project's code and documentation on GitHub.
-- **Tech Stack**: Praat, Python, PyTorch/Scikit-Learn, Signal Processing, Machine Learning
-
-
-### **LLM-powered RAG Chat-bot** 🤖
-- Developed a chatbot powered by a Large Language Model (LLM) using the Retrieval-Augmented Generation (RAG) architecture.
-- Utilized LangChain to integrate the RAG model with Chroma DB, a vector database, for efficient retrieval of relevant information.
-- Implemented a user-friendly interface using Streamlit for users to interact with the chatbot.
-- **Tech Stack**: LangChain, RAG, Chroma DB, Streamlit, Python, Natural Language Processing, AI Architecture

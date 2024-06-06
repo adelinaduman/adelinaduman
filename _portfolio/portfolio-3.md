@@ -1,7 +1,7 @@
 ---
 
 title: "Emotion Detection - Spoken Language Processing System"
-excerpt: "Developed a sophisticated system for analyzing and recognizing emotions in spoken language.<br/><img src='/3.jpg'>"
+excerpt: "Developed a sophisticated system for analyzing and recognizing emotions in spoken language.<br/><img src='/images/3.jpg'>"
 collection: portfolio
 ---
 

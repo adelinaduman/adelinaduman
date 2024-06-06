@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Implemented a deep learning model in Python to replicate the findings of a research paper on Alzheimer's disease prediction using brain MRI images.<br/><img src='/images/1.png'>"
+title: "Machine Learning Project in Medicine – Alzheimer MRI Predictions"
+excerpt: "Implemented a deep learning model(CNN) in Python to replicate the findings of a research paper on Alzheimer's disease prediction using brain MRI images.<br/><img src='/images/1.png'>"
 collection: portfolio
 ---
 
